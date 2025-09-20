@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-IPTV series:
+IPTV **m3u**s:
 
-- Asia: https://github.com/AzeemHadzrie/iptv-asia (main)
-- Indoworld: https://github.com/AzeemHadzrie/iptv-indoworld (relay of https://github.com/khoebhoerhan/GMTV main)
-- All: https://github.com/AzeemHadzrie/iptv-all (relay of https://github.com/iptv-org/iptv master)
+- Asia: https://github.com/AzeemHadzrie/iptv-asia
+- StarHub: https://github.com/AzeemHadzrie/StarHubTV
+
 <!--
 **AzeemHadzrie/AzeemHadzrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
